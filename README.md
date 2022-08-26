@@ -1,4 +1,4 @@
-# START-TECH-ACADEMY-STEP---i-internship
+# START-TECH-ACADEMY-STEP-i Internship
 
 I've successfully completed STEP-i internship of Start Tech Academy.
 TASK 1 - EXCEL DATA ANALYSIS 
